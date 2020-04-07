@@ -1,0 +1,7 @@
+organization=space-game-web-kunalsecuritytesting
+projectKey=kunalsehgal_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6465
+dashboardUrl=https://sonarcloud.io/dashboard?id=kunalsehgal_mslearn-tailspin-spacegame-web
+ceTaskId=AXFOpw3ITCBh7VCAISFc
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFOpw3ITCBh7VCAISFc
